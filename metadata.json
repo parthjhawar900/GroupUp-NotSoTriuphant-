@@ -1,0 +1,6 @@
+{
+  "name": "GroupUp - Student Teammate Discovery & Team Formation",
+  "description": "Intelligent teammate discovery and team formation platform for college students competing in hackathons, competitions, and collaborative projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
